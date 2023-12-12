@@ -1,0 +1,10 @@
+.env
+.idea/aws.xml
+.idea/.gitignore
+.idea/falcon-os.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+./venv/
